@@ -27,6 +27,10 @@ GTAV 레거시는 언어 설정 시 폰트 매핑 파일과 해당 언어용 폰
    - `GTAV > update > update.rpf > x64 > data > cdimages > scaleform_platform_pc.rpf > font_lib_korean_pc.gfx`  
    - `GTAV > update > update.rpf > common > data > ui > fontmap.xml`  
 
+2. rpf헤더를 NG로 다시 암호화하세요.
+
+3. (인핸스드의 경우)루트의 rpf.cache를 다시 유효하도록 수정하세요.
+
 2. 게임을 실행하여 변경된 폰트를 확인합니다.  
 
 ---
